@@ -1,0 +1,1 @@
+# Cloud-One-Conformity-Webhook-to-AzureMonitorFunction
